@@ -1,2 +1,7 @@
-# demo-consultorios-medicos-comunitarios
-Demo web para Consultorios MÉDICOS COMUNITARIOS — diseñada por eterlab.
+# Consultorios MÉDICOS COMUNITARIOS
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
